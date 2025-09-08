@@ -1,0 +1,303 @@
+{
+    "个人常用": [
+        {
+            "name": "币安Binance",
+            "url": "https://8448.cn/b",
+            "icon": "/icon/binance.png"
+        },
+        {
+            "name": "盈透IBKR",
+            "url": "https://8448.cn/ibkr",
+            "icon": "/icon/ibkr.png"
+        },
+        {
+            "name": "众安ZA",
+            "url": "https://8448.cn/za",
+            "icon": "/icon/zabank.png"
+        },
+        {
+            "name": "香港盈立",
+            "url": "https://8448.cn/ushk",
+            "icon": "/icon/ushk.png"
+        },
+        {
+            "name": "BiyaPay",
+            "url": "https://8448.cn/biya",
+            "icon": "/icon/biyapay.png"
+        },
+        {
+            "name": "Bitz Net",
+            "url": "https://8448.cn/bitz",
+            "icon": "/icon/bitznet.png"
+        }
+    ],
+ "常用梯子VPN": [
+        {
+            "name": "Bitz Net",
+            "url": "https://8448.cn/bitz",
+            "icon": "/icon/bitznet.png"
+        },
+        {
+            "name": "快连",
+            "url": "https://8448.cn/k",
+            "icon": "/icon/k.png"
+        }
+    ],    
+    "加密货币交易所": [
+               {
+            "name": "币安Binance",
+            "url": "https://8448.cn/b",
+            "icon": "/icon/binance.png"
+        },
+        {
+            "name": "欧易OKX",
+            "url": "https://8448.cn/o",
+            "icon": "/icon/okx.png"
+        },
+        {
+            "name": "火币HTX",
+            "url": "https://8448.cn/h",
+            "icon": "/icon/htx.png"
+        },
+        {
+            "name": "Coinbase",
+            "url": "https://8448.cn/c",
+            "icon": "/icon/coinbase.jpg"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxxx.xxx/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxxx.xxx/",
+            "icon": "/icon/ fa-server"
+        }
+     ],
+     "加密钱包": [
+        {
+            "name": "OpenWrt",
+            "url": "https://op.xxxxxx.xxx/",
+            "icon": "/icon/ fa-network-wired"
+        },
+        {
+            "name": "云盘",
+            "url": "https://yun.xxxxxx.xxx/",
+            "icon": "/icon/ fa-cloud"
+        },
+        {
+            "name": "影 视 库 ",
+            "url": "https://movie.xxxxxx.xxx/",
+            "icon": "/icon/ fa-film"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxxx.xxx/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxxx.xxx/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxxx.xxx/",
+            "icon": "/icon/ fa-server"
+        }
+    ],
+     "U卡U card": [
+        {
+            "name": "UUwallet",
+            "url": "https://8448.cn/uu",
+            "icon": "/icon/uu.png"
+        },
+        {
+            "name": "DogPay",
+            "url": "https://8448.cn/doge",
+            "icon": "/icon/dogpay.png"
+        },
+        {
+            "name": "PokePay",
+            "url": "https://8448.cn/poke",
+            "icon": "/icon/pokepay.png"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxxx.xxx/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxxx.xxx/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxxx.xxx/",
+            "icon": "/icon/ fa-server"
+        }
+    ],    
+    "美股开户": [
+        {
+            "name": "盈透IBKR",
+            "url": "https://8448.cn/ibkr",
+            "icon": "/icon/ibkr.png"
+        },
+        {
+            "name": "香港盈立",
+            "url": "https://8448.cn/ushk",
+            "icon": "/icon/ushk.png"
+        },
+        {
+            "name": "长桥",
+            "url": "https://8448.cn/lb",
+            "icon": "/icon/lb.png"
+        },
+        {
+            "name": "BiyaPay",
+            "url": "https://8448.cn/biya",
+            "icon": "/icon/biyapay.png"
+        },
+        {
+            "name": "新加坡盈立",
+            "url": "https://8448.cn/ushk/ussg",
+            "icon": "/icon/ussg.png"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxxx.xxx/",
+            "icon": "/icon/ fa-server"
+        }
+    ],
+    
+    "境外银行开户": [
+        {
+            "name": "众安ZA",
+            "url": "https://8448.cn/za",
+            "icon": "/icon/zabank.png"
+        },
+        {
+            "name": "云盘",
+            "url": "https://lyun.xxxxx.com/",
+            "icon": "/icon/ fa-cloud"
+        },
+        {
+            "name": "影视库",
+            "url": "https://movie.xxxxx.com/",
+            "icon": "/icon/ fa-film"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxx.com/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxx.com/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxx.com/",
+            "icon": "/icon/ fa-server"
+        }
+    ],
+     "手机卡SIM/ESIM": [
+        {
+            "name": "OpenWrt",
+            "url": "https://op.xxxxx.com/",
+            "icon": "/icon/ fa-network-wired"
+        },
+        {
+            "name": "云盘",
+            "url": "https://lyun.xxxxx.com/",
+            "icon": "/icon/ fa-cloud"
+        },
+        {
+            "name": "影视库",
+            "url": "https://movie.xxxxx.com/",
+            "icon": "/icon/ fa-film"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxx.com/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxx.com/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxx.com/",
+            "icon": "/icon/ fa-server"
+        }
+    ],
+     "信箱地址租用": [
+        {
+            "name": "OpenWrt",
+            "url": "https://op.xxxxx.com/",
+            "icon": "/icon/ fa-network-wired"
+        },
+        {
+            "name": "云盘",
+            "url": "https://lyun.xxxxx.com/",
+            "icon": "/icon/ fa-cloud"
+        },
+        {
+            "name": "影视库",
+            "url": "https://movie.xxxxx.com/",
+            "icon": "/icon/ fa-film"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxx.com/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxx.com/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxx.com/",
+            "icon": "/icon/ fa-server"
+        }
+    ],
+     "独立IP配置": [
+        {
+            "name": "OpenWrt",
+            "url": "https://op.xxxxx.com/",
+            "icon": "/icon/ fa-network-wired"
+        },
+        {
+            "name": "云盘",
+            "url": "https://lyun.xxxxx.com/",
+            "icon": "/icon/ fa-cloud"
+        },
+        {
+            "name": "影视库",
+            "url": "https://movie.xxxxx.com/",
+            "icon": "/icon/ fa-film"
+        },
+        {
+            "name": "Aria2",
+            "url": "https://aria.xxxxx.com/",
+            "icon": "/icon/ fa-download"
+        },
+        {
+            "name": "青龙面板",
+            "url": "https://ql.xxxxx.com/",
+            "icon": "/icon/ fa-list-check"
+        },
+        {
+            "name": "PVE管理",
+            "url": "https://pve.xxxxx.com/",
+            "icon": "/icon/ fa-server"
+        }
+    ]      
+}
