@@ -65,15 +65,24 @@
             "icon": "/icon/coinbase.jpg"
         },
         {
-            "name": "青龙面板",
-            "url": "https://ql.xxxxxx.xxx/",
-            "icon": "/icon/ fa-list-check"
+            "name": "Bitget",
+            "url": "https://8448.cn/bitget",
+            "icon": "/icon/bitget100.png"
         },
         {
-            "name": "PVE管理",
-            "url": "https://pve.xxxxxx.xxx/",
-            "icon": "/icon/ fa-server"
-        }
+            "name": "Bybit",
+            "url": "https://8448.cn/bybit",
+            "icon": "/icon/bybit100.png"
+        },
+        {
+            "name": "Gate",
+            "url": "https://8448.cn/gate",
+            "icon": "/icon/gate100.png"
+        }, 
+            "name": "KuCoin",
+            "url": "https://8448.cn/ku",
+            "icon": "/icon/kucoin100.png"
+        },            
      ],
      "加密钱包": [
         {
